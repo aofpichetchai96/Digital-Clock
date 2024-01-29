@@ -19,8 +19,8 @@ function update(){
         dot.classList.remove('invsible');
     }
 
-    hour.textContent = String(now.getHours());
-    min.textContent = String(now.getMinutes());
+    hour.textContent = String(now.getHours()).padStart(2, '0');
+    min.textContent = String(now.getMinutes()).padStart(2, '0');
 
     Array
     .from(week.children)
