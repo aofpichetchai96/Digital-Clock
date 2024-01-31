@@ -21,6 +21,10 @@ body {
     padding:  0 2rem;
     border: .05rem solid #2d2d2d;
     justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
 }
 
 .week{
