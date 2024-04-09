@@ -63,3 +63,16 @@ body {
 .invsible{
     visibility: hidden;
 }
+
+@media (max-width: 1024px){  
+
+    .hour,
+    .min,
+    .dot,
+    .dot2,
+    .second{
+        display: inline-block;
+        font-size:4.2rem;
+        margin-top: 40px;
+    }
+}

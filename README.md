@@ -5,3 +5,5 @@ Action Digital-Clock
 
 # Live site: [https://aofpichetchai96.github.io/Digital-Clock](https://aofpichetchai96.github.io/Digital-Clock/)
 
+![Employee data](./demo.JPG?raw=true)
+
